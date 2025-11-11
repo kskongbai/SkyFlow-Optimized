@@ -18,7 +18,7 @@
 请前往 **[Release](../../releases/latest)** 页面下载最新的 `.mrpack` 整合包文件。
 
 ### 快速启动指南
-1.  **下载** 最新的 `SkyFlow-Optimized-x.x.x.mrpack/空流整合包 1.21.9.mrpack` 文件。
+1.  **下载** 最新的 `SkyFlow-Optimized-x.x.x.mrpack/空流整合包 x.x.x.mrpack` 文件。
 2.  **拖拽** 该文件到您的 PCL2/HMCL（未测试） 等支持 `.mrpack` 的启动器窗口。
 3.  **启动** 启动器会自动创建实例并安装所需文件，点击“启动”即可畅玩！
 
