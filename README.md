@@ -1,10 +1,6 @@
 # SkyFlow Optimized | 空流优化整合包
 
-![Fabric](https://img.shields.io/badge/Loader-Fabric-d6c4ff?style=for-the-badge&logo=curseforge)
-![Version](https://img.shields.io/badge/Game-1.21.10-5cb85c?style=for-the-badge&logo=minecraft)
-![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-ef6c00?style=for-the-badge)
-
-> 一个专为 Minecraft 1.21.10 Fabric 打造的**轻量级优化整合包**，旨在彻底消除原版卡顿，提供流畅、稳定的生存体验。
+> 一个专为 Minecraft Fabric 打造的**轻量级优化整合包**，旨在彻底消除原版卡顿，提供流畅、稳定的生存体验。
 
 ---
 
