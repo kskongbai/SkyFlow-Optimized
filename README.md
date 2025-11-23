@@ -15,7 +15,7 @@
 ## 📥 下载与安装
 
 ### 最新版本下载
-请前往 **PCL2中整合包搜索空流/SkyFlow**或者**[modrinth](https://modrinth.com/modpack/skyflow-optimized)** 页面下载最新的 `.mrpack` 整合包文件。
+请前往 **PCL2中整合包搜索空流/SkyFlow**或者[modrinth](https://modrinth.com/modpack/skyflow-optimized) 页面下载最新的 `.mrpack` 整合包文件。
 
 ### 快速启动指南
 1.  **下载** 最新的 `SkyFlow-Optimized-x.x.x.mrpack/空流整合包 x.x.x.mrpack` 文件。
